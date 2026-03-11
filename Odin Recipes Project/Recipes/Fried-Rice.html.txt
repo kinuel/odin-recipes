@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Fried Rice</title>
+</head>
+<body>
+
+<a href="../index.html">Home</a>
+
+<h1>Fried Rice</h1>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Fried_Rice.jpg" width="400">
+
+<h2>Description</h2>
+<p>Fried rice is a dish made with cooked rice stir-fried with vegetables, eggs, and meat.</p>
+
+<h2>Ingredients</h2>
+<ul>
+<li>Cooked rice</li>
+<li>Eggs</li>
+<li>Carrots</li>
+<li>Green peas</li>
+<li>Soy sauce</li>
+</ul>
+
+<h2>Steps</h2>
+<ol>
+<li>Heat oil in a pan.</li>
+<li>Add vegetables and eggs.</li>
+<li>Add cooked rice.</li>
+<li>Season with soy sauce and stir.</li>
+</ol>
+
+</body>
+</html>
